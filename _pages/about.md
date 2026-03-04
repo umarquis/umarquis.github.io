@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Mathematics, University of Trento</a>. Via SOmmarive 14, Povo, Italy. 
+subtitle: <a href='#'>Department of Mathematics, University of Trento</a>. Via Sommarive 14, Povo, 38121 Trento, Italy. 
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -25,9 +25,3 @@ latest_posts:
 ---
 
 I am a PhD student in the [Mathematics department](https://www.maths.unitn.it/) of the University of Trento and in the [Complex Human Behavior Lab](https://chub.fbk.eu/) in FBK. My main research topic concerns the spatial growth of cities. I am generally interested in ...
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
