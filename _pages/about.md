@@ -12,8 +12,12 @@ profile:
     
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the [Mathematics department](https://www.maths.unitn.it/) of the University of Trento and in the [Complex Human Behavior Lab](https://chub.fbk.eu/) in FBK. My main research topic concerns the spatial growth of cities. I am generally interested in ...
+I am a PhD student in the . My main research topic concerns the spatial growth of cities. I combine theoretical approaches, empirical work and simulation. In particular, this involves work on surface roughening, traveling waves in random media, dispersal processes. Beyond that I am interested in general topics of non-equilibrium physics, kinetic roughening, soft matter physics (polymer science), ecological invasions
+
+I am a [Mathematics department](https://www.maths.unitn.it/) of the University of Trento and in the [Complex Human Behavior Lab](https://chub.fbk.eu/) in FBK. My research focuses on the spatial growth and evolution of cities. I combine theoretical modeling, empirical analysis, and computational simulations to study these processes, drawing on tools from statistical physics, nonlinear dynamics, and complex systems.
+
+In particular, I investigate phenomena such as surface roughening, traveling waves in random and heterogeneous media, and dispersal processes, aiming to uncover general principles underlying spatial expansion and pattern formation. My work sits at the intersection of urban science, non-equilibrium physics, and ecological modeling. Beyond urban systems, I am broadly interested in non-equilibrium phenomena, kinetic roughening, soft matter physics—including polymer science—random matrix theory, theory of spatial networks and ecological invasion processes.
