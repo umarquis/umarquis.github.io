@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-preprintscaling",
+        
+          title: "Preprintscaling",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/04/01/preprintscaling.html";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -415,6 +426,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-review-article-on-the-modeling-of-city-growth-is-out-here",
           title: 'Our review article on the modeling of city growth is out here !...',
+          description: "",
+          section: "News",},{id: "news-new-pre-print-quot-on-the-meaning-of-urban-scaling-quot-https-arxiv-org-pdf-2603-30021-https-arxiv-org-pdf-2603-30021",
+          title: 'New pre-print &amp;quot;On the meaning of urban scaling&amp;quot; [https://arxiv.org/pdf/2603.30021](https://arxiv.org/pdf/2603.30021) !',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
