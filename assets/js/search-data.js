@@ -37,9 +37,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-preprintscaling",
+            },{id: "post-my-post-title",
         
-          title: "Preprintscaling",
+          title: "My Post Title",
         
         description: "",
         section: "Posts",
