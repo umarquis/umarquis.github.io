@@ -37,9 +37,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-my-post-title",
+            },{id: "post-on-the-meaning-of-urban-scaling",
         
-          title: "My Post Title",
+          title: "On the meaning of urban scaling",
         
         description: "",
         section: "Posts",
