@@ -416,10 +416,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-review-article-on-the-modeling-of-city-growth-is-out-here",
+            },},{id: "news-our-review-article-on-the-modeling-of-city-growth-is-out-here",
           title: 'Our review article on the modeling of city growth is out here !...',
           description: "",
           section: "News",},{id: "news-new-pre-print-quot-on-the-meaning-of-urban-scaling-quot-https-arxiv-org-pdf-2603-30021-https-arxiv-org-pdf-2603-30021",
