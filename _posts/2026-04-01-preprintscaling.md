@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Post Title
+title: "On the meaning of urban scaling"
 date: 2026-04-01
 ---
 
