@@ -30,5 +30,5 @@ I am a PhD student in the [Mathematics department](https://www.maths.unitn.it/) 
 
 6) <ins>Random matrix theory (and applications).</ins> It appears that laws governing the spectrum of random matrices appear everywhere across science: spin-glasses, random surfaces, econophysics, stability of ecological systems... However the discipline is still young and there are plenty of open questions. I have worked on the spectrum of matrices with strong correlations.
 
-7) <ins>Soft matter, biophysics.</ins> I am currently discovering these incredibly wide and fascinating disciplines. I am particulary interested in the stretching of polymers and first-passage problems in complex media.
+7) <ins>Soft matter, biophysics.</ins> I am currently discovering these incredibly wide and fascinating disciplines. I am particulary interested in the stretching of polymers and wetting problems.
 
