@@ -9,6 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+
+<div style="text-align: justify;">
+profile:
+  align: right
+  image: Screenshot from 2026-05-06 17-11-36.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
     
 
 news: true # includes a list of news items
