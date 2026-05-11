@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <img src="assets/img/don_quixote.jpeg" style="width:100%; margin-top:10px;">
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
