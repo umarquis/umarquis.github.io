@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+  <img src="don_quixote.jpeg" style="width:100%; margin-top:10px;">
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,5 +30,5 @@ I am a PhD student in the [Mathematics department](https://www.maths.unitn.it/) 
 
 6) <ins>Random matrix theory (and applications).</ins> It appears that laws governing the spectrum of random matrices appear everywhere across science: spin-glasses, random surfaces, econophysics, stability of ecological systems... However the discipline is still young and there are plenty of open questions. I have worked on the spectrum of matrices with strong correlations.
 
-7) <ins>Soft matter, biophysics.</ins> I am currently discovering these incredibly wide and fascinating disciplines. I am particulary interested in the stretching of polymers and wetting problems.
+7) <ins>Soft matter, biophysics.</ins> I am currently discovering these incredibly wide and fascinating disciplines. I am particulary interested in the stretching/folding of polymers and wetting problems.
 
