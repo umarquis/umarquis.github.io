@@ -31,7 +31,7 @@ I am a PhD student in the [Mathematics department](https://www.maths.unitn.it/) 
 
 7) <ins>Soft matter, biophysics.</ins> I am currently discovering these incredibly wide and fascinating disciplines. I am particulary interested in the stretching/folding of polymers and wetting problems.
 
-I am currently looking for postdoctoral positions to begin around January 2027. I am interested in statistichal mechanics and inter-disciplinary applications, dynamics of disordered landscapes, soft matter problems, and more generally physics applied to biology and ecology.
+I am currently looking for postdoctoral positions to begin around January 2027. I am interested in statistichal mechanics and inter-disciplinary applications, dynamics on disordered landscapes, soft matter problems, and more generally physics applied to biology and ecology.
 
 Please contact me at : ulysse [dot] marquis [at] gmail [dot] com.
 
