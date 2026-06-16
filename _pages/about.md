@@ -21,7 +21,7 @@ I am a PhD student in the [Mathematics department](https://www.maths.unitn.it/) 
 
 2) <ins>Science of city. </ins>
 
-3) <ins>"Exotic" kinetic roughening.</ins> While most of the surface growth literature has focused on the thermal KPZ equation, my work focuses on more exotic cases such as heterogeneous deposition and disorder beyond Gaussian, white noise.
+3) <ins>"Exotic" random deposition.</ins> I work on characterizing the growth of surfaces with deposition of non-monomeric, polydisperse blobs.
 
 4) <ins>Traveling waves in random media.</ins> Reaction-diffusion equations describe a variety of (non-equilibrium) phenomena: flame propagation, ecological invasion, epidemic spreading etc. I work on characterizing fronts which advance in heterogeneous media and deviations to various deterministic cases.
 
@@ -29,7 +29,7 @@ I am a PhD student in the [Mathematics department](https://www.maths.unitn.it/) 
 
 6) <ins>Random matrix theory (and applications).</ins> It appears that laws governing the spectrum of random matrices appear everywhere across science: spin-glasses, random surfaces, econophysics, stability of ecological systems... However the discipline is still young and there are plenty of open questions. I have worked on the spectrum of matrices with strong correlations.
 
-7) <ins>Soft matter, biophysics.</ins> I am currently discovering these incredibly wide and fascinating disciplines. I am particulary interested in the stretching/folding of polymers and wetting problems.
+7) <ins>Soft matter, biophysics.</ins> I am currently discovering these incredibly wide and fascinating disciplines. I am particulary interested in the stretching and folding of polymers; knots in polymers and melts; physics of membranes; wetting problems.
 
 I am currently looking for postdoctoral positions to begin around January 2027. I am interested in statistichal mechanics and inter-disciplinary applications, dynamics on disordered landscapes, soft matter problems, and more generally physics applied to biology and ecology.
 
