@@ -414,7 +414,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-discussing-traveling-fronts-in-quenched-disordered-media-here-we-show-numerically-that-random-disorder-accelerates-the-wave-with-respect-to-deterministic-case-the-exact-distribution-of-the-disorder-does-not-seem-to-matter-beyond-its-first-two-moments",
           title: 'New paper discussing traveling fronts in quenched disordered media here ! We show...',
           description: "",
-          section: "News",},{id: "news-preprint-on-the-coalescing-colony-model-with-dispersion-range-scaling-with-the-size-of-the-colony-new-paper-discussing-traveling-fronts-in-quenched-disordered-media-here-we-show-numerically-that-random-disorder-accelerates-the-wave-with-respect-to-deterministic-case-the-exact-distribution-of-the-disorder-does-not-seem-to-matter-beyond-its-first-two-moments",
+          section: "News",},{id: "news-preprint-on-the-coalescing-colony-model-with-dispersion-range-scaling-with-the-size-of-the-colony",
           title: 'Preprint on the coalescing colony model with dispersion range scaling with the size...',
           description: "",
           section: "News",},{id: "projects-project-1",
